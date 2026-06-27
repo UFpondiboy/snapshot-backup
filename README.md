@@ -246,9 +246,6 @@ This software is provided as-is without warranty. The author is not responsible 
 
 Use at your own risk.
 
-
-
-
 ## Design Philosophy
 
 Simple restore beats clever restore.
@@ -291,3 +288,11 @@ installation instructions
 chmod +x snapshot-backup.sh
 mkdir -p ~/.local/bin
 cp snapshot-backup.sh ~/.local/bin/
+
+## Example Output
+
+Incremental backup:
+
+![Screenshot](docs/Screenshots.jpg)
+
+![Final Results](docs/Screenshots2.jpg)
