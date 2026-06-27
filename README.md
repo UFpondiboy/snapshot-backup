@@ -84,6 +84,7 @@ Backups/
 **Browse to the desired snapshot:**
 
 Backups/
+
 └── Backup_<timestamp>/
 
 **Then copy files back using:**
