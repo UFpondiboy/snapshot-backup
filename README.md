@@ -228,14 +228,6 @@ If your data exists in only one place, it is not backed up.
 
 Maintain at least one additional copy of important data.
 
-## Disclaimer
-
-Always test restores before relying on any backup solution.
-
-This software is provided as-is without warranty. The author is not responsible for data loss, corruption, or damage resulting from its use.
-
-Use at your own risk.
-
 ## Design Philosophy
 
 Simple restore beats clever restore.
@@ -261,15 +253,15 @@ This project is licensed under the MIT License.
 
 See the LICENSE file for details.
 
-## Important
-
-This software has been tested on personal Linux systems and is provided as-is.
-
-Always follow the backup rule:
-
-If your data exists in only one place, it is not backed up.
-
 Maintain at least one additional copy of important data.
+
+## Disclaimer
+
+Always test restores before relying on any backup solution.
+
+This software is provided as-is without warranty. The author is not responsible for data loss, corruption, or damage resulting from its use.
+
+Use at your own risk.
 
 ## Installation Instructions
 
