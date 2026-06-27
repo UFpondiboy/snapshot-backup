@@ -283,3 +283,11 @@ Always follow the backup rule:
 If your data exists in only one place, it is not backed up.
 
 Maintain at least one additional copy of important data.
+
+## Installation Instructions
+
+installation instructions
+
+chmod +x snapshot-backup.sh
+mkdir -p ~/.local/bin
+cp snapshot-backup.sh ~/.local/bin/
