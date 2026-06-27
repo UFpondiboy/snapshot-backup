@@ -1,4 +1,4 @@
-# Snapshot Backup (Verified Engine v5)
+# Snapshot Backup (Engine v5)
 
 A lightweight snapshot-based backup system for Linux using rsync and hard links.
 
