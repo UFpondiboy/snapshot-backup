@@ -73,8 +73,11 @@ Changed files are copied normally.
 Result:
 
 Backups/
+
 ├── Backup_2026-06-27_10-00-56/
+
 ├── Backup_2026-06-28_10-00-22/
+
 └── Backup_2026-06-29_10-00-11/
 
 Each snapshot appears complete, but unchanged files occupy space only once on disk.
@@ -86,6 +89,7 @@ No special restore process exists.
 Browse to the desired snapshot:
 
 Backups/
+
 └── Backup_<timestamp>/
 
 Then copy files back using:
