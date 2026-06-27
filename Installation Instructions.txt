@@ -1,5 +1,0 @@
-installation instructions
-
-chmod +x snapshot-backup.sh
-mkdir -p ~/.local/bin
-cp snapshot-backup.sh ~/.local/bin/
