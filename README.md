@@ -293,6 +293,6 @@ cp snapshot-backup.sh ~/.local/bin/
 
 Incremental backup:
 
-![Screenshot](docs/Screenshots.jpg)
+![Screenshot](Docs/Screenshots.jpg)
 
-![Final Results](docs/Screenshots2.jpg)
+![Final Results](Docs/Screenshots2.jpg)
